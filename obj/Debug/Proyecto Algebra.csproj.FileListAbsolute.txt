@@ -1,0 +1,15 @@
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto Algebra.csproj.AssemblyReference.cache
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto_Algebra.Form1.resources
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto_Algebra.Properties.Resources.resources
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto Algebra.csproj.GenerateResource.cache
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto Algebra.csproj.CoreCompileInputs.cache
+C:\Users\pooll\source\repos\Proyecto Algebra\bin\Debug\Proyecto Algebra.exe.config
+C:\Users\pooll\source\repos\Proyecto Algebra\bin\Debug\Proyecto Algebra.exe
+C:\Users\pooll\source\repos\Proyecto Algebra\bin\Debug\Proyecto Algebra.pdb
+C:\Users\pooll\source\repos\Proyecto Algebra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto Algebra.csproj.CopyComplete
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto Algebra.exe
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto Algebra.pdb
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto_Algebra.Forms.FormTema1.resources
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto_Algebra.Forms.FormTema5.resources
+C:\Users\pooll\source\repos\Proyecto Algebra\obj\Debug\Proyecto_Algebra.Forms.FormTema6.resources
